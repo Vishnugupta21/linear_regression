@@ -1,0 +1,32 @@
+﻿Year,month,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value
+2021,july,Level 1,99999,All industries,Dollars (millions),H01,Total income,Financial performance,"757,504"
+2021,july,Level 1,99998,All industries,Dollars (millions),H02,"Sales, government funding, grants and subsidies",Financial performance,"674,890"
+2021,july,Level 1,99997,All industries,Dollars (millions),H03,"Interest, dividends and donations",Financial performance,"49,593"
+2021,july,Level 1,99996,All industries,Dollars (millions),H04,Non-operating income,Financial performance,"33,020"
+2021,july,Level 1,99995,All industries,Dollars (millions),H05,Total expenditure,Financial performance,"654,404"
+2021,july,Level 1,99994,All industries,Dollars (millions),H06,Interest and donations,Financial performance,"26,138"
+2021,july,Level 1,99993,All industries,Dollars (millions),H07,Indirect taxes,Financial performance,"6,991"
+2021,july,Level 1,99992,All industries,Dollars (millions),H08,Depreciation,Financial performance,"27,801"
+2021,july,Level 1,99991,All industries,Dollars (millions),H09,Salaries and wages paid,Financial performance,"123,620"
+2021,july,Level 1,99990,All industries,Dollars (millions),H10,Redundancy and severance,Financial performance,275
+2021,july,Level 1,99989,All industries,Dollars (millions),H11,Salaries and wages to self employed commission agents,Financial performance,"2,085"
+2021,july,Level 1,99988,All industries,Dollars (millions),H12,Purchases and other operating expenses,Financial performance,"452,963"
+2021,july,Level 1,99987,All industries,Dollars (millions),H13,Non-operating expenses,Financial performance,"14,806"
+2021,july,Level 1,99986,All industries,Dollars (millions),H14,Opening stocks,Financial performance,"68,896"
+2021,july,Level 1,99985,All industries,Dollars (millions),H15,Closing stocks,Financial performance,"69,127"
+2021,july,Level 1,99984,All industries,Dollars (millions),H16,Surplus before income tax,Financial performance,"103,330"
+2021,july,Level 1,99983,All industries,Dollars (millions),H17,Total assets,Financial position,"2,512,677"
+2021,july,Level 1,99982,All industries,Dollars (millions),H18,Current assets,Financial position,"730,587"
+2021,july,Level 1,99981,All industries,Dollars (millions),H19,Fixed tangible assets,Financial position,"591,351"
+2021,july,Level 1,99980,All industries,Dollars (millions),H20,Other assets,Financial position,"1,190,739"
+2021,july,Level 1,99979,All industries,Dollars (millions),H21,Total equity and liabilities,Financial position,"2,512,677"
+2021,july,Level 1,99978,All industries,Dollars (millions),H22,Shareholders funds or owners equity,Financial position,"813,949"
+2021,july,Level 1,99977,All industries,Dollars (millions),H23,Current liabilities,Financial position,"933,093"
+2021,july,Level 1,99976,All industries,Dollars (millions),H24,Other liabilities,Financial position,"765,635"
+2021,july,Level 1,99975,All industries,Dollars,H25,Total income per employee count,Financial ratios,"400,900"
+2021,july,Level 1,99974,All industries,Dollars,H26,Surplus per employee count,Financial ratios,"54,700"
+2021,july,Level 1,99973,All industries,Percentage,H27,Current ratio,Financial ratios,78
+2021,july,Level 1,99972,All industries,Percentage,H28,Quick ratio,Financial ratios,71
+2021,july,Level 1,99971,All industries,Percentage,H29,Return on equity,Financial ratios,13
+2021,july,Level 1,99970,All industries,Percentage,H30,Return on total assets,Financial ratios,4
+2021,july,Level 1,99969,All industries,Percentage,H31,Liabilities structure,Financial ratios,32
